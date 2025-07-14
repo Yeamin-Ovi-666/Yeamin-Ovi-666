@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm Yeamin Ovi, from Gazipur in Bangladesh <br><br>- 🔭 I’m working as a student.<br>- 📚 I'm currently learning web developer.<br>- ⚡ In my free time I leaning about .coding.</p>
+<p align="left">I'm Yeamin Ovi, from Gazipur in Bangladesh <br><br>- 🔭 I’m working as a student.<br>- 📚 I'm currently learning HTML,CSS & C programming.<br>- ⚡ In my free time I leaning about .coding.</p>
 
 ###
 
